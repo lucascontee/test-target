@@ -12,3 +12,7 @@ C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\refi
 C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\target.pdb
 C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\target.genruntimeconfig.cache
 C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\ref\target.dll
+C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\target.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\target.sourcelink.json
+C:\Users\lucas\Documents\estudos\test-target\target\target\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\estudos\test-target\target\target\obj\Debug\net8.0\target.csproj.Up2Date
